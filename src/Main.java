@@ -19,7 +19,7 @@ public class Main {
         int secondDigit = number % 10;
         int sum = firstDigit + secondDigit;
 
-        System.out.println("Sum of the digits of a number" + number + " = " + sum);
+        System.out.println("Sum of the digits of number" + number + " = " + sum);
 
 
         System.out.println("--- Task 3  ---");
